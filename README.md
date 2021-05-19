@@ -1,4 +1,4 @@
 # tippy
 First Android app.
 
-This is in preparation for my the `real` project
+Getting some practice on kotlin and the Android ecosystem
